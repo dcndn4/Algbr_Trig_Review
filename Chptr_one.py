@@ -83,16 +83,35 @@ n=pow(3,4)
 o=3**4
 #%%
 
-to get value of pi
+#to get value of pi
 
 print(math.pi)
 #%%
-circumference
+#circumference
 radius = 15
 
 circ = (math.pi)*2*15
 #%%
 
+#square root
+
+m=math.sqrt(25)
+n=math.sqrt(26)
+o=math.sqrt(-27)
+#%%
+p=math.sqrt(0)
+q=2.3**5
+#%%
+
+#scientific notation
+
+no1 = float(58000000.0000)
+no2 = float(0.0000058)
+
+print(format(no1,'.1E'))
+print(format(no2,'.1E'))
+
+#%%
 
 
 
