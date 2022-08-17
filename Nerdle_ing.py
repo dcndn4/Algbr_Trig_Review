@@ -69,3 +69,11 @@ nea= 41 - 17
 
 n=462/7
 #%%
+
+# no 7, 8, 5, 6
+# yes 9, 2, 1 ,4, 3
+# answer = not 2 or 1 digits
+# no subtraction or div
+
+# 4_ _ 3 = a a a ???
+# 4_*3=12_
