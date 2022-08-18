@@ -77,3 +77,14 @@ n=462/7
 
 # 4_ _ 3 = a a a ???
 # 4_*3=12_
+
+#%%
+
+# no 7, 2, 3, 5, 8, 
+# yes 9, 6, 4, 0 
+# answer = 2 digits
+# subtraction of 2 digits from 2 digits
+
+# _ _ - _ _ = _ _ 
+
+# _ _ - _ _ = 49
