@@ -88,3 +88,17 @@ n=462/7
 # _ _ - _ _ = _ _ 
 
 # _ _ - _ _ = 49
+
+#%%
+
+# no 9, 5, 4, 3, 1
+# yes 2 , 1 in 2nd position, 7 in 4th position, 6 in 8th position
+# answer = 1 digit
+# subtraction in 3rd position
+
+
+# _ 1 - _ _ _ _ _ 
+
+# _ 1 - 7 (not plus) _ = 6
+
+
