@@ -101,4 +101,29 @@ n=462/7
 
 # _ 1 - 7 (not plus) _ = 6
 
+#%%
+
+# no 8, 1, 3, 6, 7, 5
+# yes 7 in 1st pos, 9 in 4th pos, 4
+# answer is 1 digit
+# no subtraction or multiplication
+
+# 7 _ _ _ _ _ _ _  with 4 & 9 somewhere
+
+n=75*9
+
+#%%
+
+# 7 + _ 9 / _ = _ 
+
+# 7 + _ 9 / _ = 4
+
+# 7 + 29 / 2 = 4
+
+# n=(7+29)/2 doesn't work in nerdle -- order of op applies, darn it!
+n=7+29 
+#%%
+
+
+
 
