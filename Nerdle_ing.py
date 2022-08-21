@@ -29,12 +29,7 @@ i=41-17
 
 i=27+44 
 
-#%%
 
-#44+27=71  win, guess # 4!
-#%%
-
-cell=80+22.5-12.50+17+5.45+4.94
 #%%
 ner=225/9
 #%%
@@ -123,6 +118,27 @@ n=75*9
 # n=(7+29)/2 doesn't work in nerdle -- order of op applies, darn it!
 n=7+29 
 #%%
+
+# no 8, 2, 9, 0, 1, 
+# yes 5 in 1st pos, 3 in 4th pos, 7 somewhere
+# answer = 3 digits
+# no addition, is mult somewhere
+
+# 5 _ _ 3 _ _ _ _ 
+
+n=57*3
+
+# 5 _ _ 3 = _ _ _ 
+
+m=5*63
+
+# no 1
+
+l=5*43
+
+# no 2, no 1
+
+k=5*73
 
 
 
