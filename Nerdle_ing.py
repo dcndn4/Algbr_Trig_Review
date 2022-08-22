@@ -31,19 +31,6 @@ i=27+44
 
 
 #%%
-ner=225/9
-#%%
-
-ne=28+67
-#%%
-
-# _ _ - _ 7 = 26
-nea= 41 - 17
-#%%
-
-# 4 0 + 36 = 76
-
-#%%
 
 # 46 ? 27 = either 46 or 66 or 76
 
@@ -139,6 +126,26 @@ l=5*43
 # no 2, no 1
 
 k=5*73
+
+#%%
+
+# no 7, 8, 2, 3, 4, 5, 0
+# yes 6 in 9th pos, 9 somewhere
+# answer = 2  digits
+# no division, no subtraction, no multiplication
+
+# _ _ _ _ _ _ _ 6
+
+nrdl = 45*9
+
+#%%
+
+_ _ _ _ _ = _ 6
+
+# answer either 16, 96 or 66
+# with all addition only
+
+
 
 
 
