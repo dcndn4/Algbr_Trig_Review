@@ -8,26 +8,6 @@ Created on Sun Aug 14 05:57:25 2022
 # Nerdle Adventuring
 #%%
 
-# 46 ? 27 = either 46 or 66 or 76
-
-# or 
-
-# 4 * x  ? / 7 = either 46 or 66 or 76
-
-# 4 x 4 / 7 
-# 4 x 6 / 7
-# 4 x 7 /7
-
-# 4 x 2 / 7
-
-
-# or 
-
-# 4 / 2 * 
-
-n=462/7
-#%%
-
 # no 7, 8, 5, 6
 # yes 9, 2, 1 ,4, 3
 # answer = not 2 or 1 digits
@@ -142,6 +122,16 @@ ner=2+(25/5) variation
 # 3 + _ 5 / _ = _ 
 
 #%%
+
+# no 3
+# yes 5, 9, 1, 4, 6
+# answer = 2 digit
+# no ..
+# yes subtraction in not- 3rd place
+
+# _ _  _ _ _ = _ _ 
+
+nrd = 6*4-9
 
 
 
