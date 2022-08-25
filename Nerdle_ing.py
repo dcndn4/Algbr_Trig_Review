@@ -8,15 +8,6 @@ Created on Sun Aug 14 05:57:25 2022
 # Nerdle Adventuring
 #%%
 
-# no 7, 8, 5, 6
-# yes 9, 2, 1 ,4, 3
-# answer = not 2 or 1 digits
-# no subtraction or div
-
-# 4_ _ 3 = a a a ???
-# 4_*3=12_
-
-#%%
 
 # no 7, 2, 3, 5, 8, 
 # yes 9, 6, 4, 0 
@@ -132,6 +123,25 @@ ner=2+(25/5) variation
 # _ _  _ _ _ = _ _ 
 
 nrd = 6*4-9
+
+#%%
+
+# no 1, 9, 5, 7, 3, 2, 0
+# yes 8 in 1st pos, 4 in 3rd pos 6, other 8, 0
+# answer is 1 digit
+# no multiplication
+# yes subtraction not in 3rd pos
+
+# 8 _ _ _ _ _ _ _ 
+
+thur = 8*73
+
+# 8 _ _ _ _ _ = _
+
+# 8 + _ - _ _ = _ 
+
+# note to self: 4 spaces equating to single digit.. mm-hmm.
+
 
 
 
