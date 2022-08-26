@@ -9,17 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 #%%
 
 
-# no 7, 2, 3, 5, 8, 
-# yes 9, 6, 4, 0 
-# answer = 2 digits
-# subtraction of 2 digits from 2 digits
-
-# _ _ - _ _ = _ _ 
-
-# _ _ - _ _ = 49
-
-#%%
-
 # no 9, 5, 4, 3, 1
 # yes 2 , 1 in 2nd position, 7 in 4th position, 6 in 8th position
 # answer = 1 digit
@@ -141,6 +130,18 @@ thur = 8*73
 # 8 + _ - _ _ = _ 
 
 # note to self: 4 spaces equating to single digit.. mm-hmm.
+
+#%%
+
+# no 9, 3, 4, 5
+# yes 7, 7, 2, 1
+# answer is 2 digits
+# no multiplication, no division
+# yes addition, but not in 3rd position
+
+# _ _ _ _ _ = _ _
+
+# ... yes!
 
 
 
