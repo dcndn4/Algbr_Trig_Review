@@ -6,18 +6,6 @@ Created on Sun Aug 14 05:57:25 2022
 """
 
 # Nerdle Adventuring
-#%%
-
-
-# no 9, 5, 4, 3, 1
-# yes 2 , 1 in 2nd position, 7 in 4th position, 6 in 8th position
-# answer = 1 digit
-# subtraction in 3rd position
-
-
-# _ 1 - _ _ _ _ _ 
-
-# _ 1 - 7 (not plus) _ = 6
 
 #%%
 
@@ -142,6 +130,25 @@ thur = 8*73
 # _ _ _ _ _ = _ _
 
 # ... yes!
+
+#%%
+
+# no 8, 2, 4, 9, 7
+# yes 6 in 3rd pos, 3, 5
+# answer is 1  digit
+# no ..
+# yes multiplication in 2nd pos and division (not in 2nd)
+
+# _ _ _ _ _ _ _ _ 
+
+nerdle = 9*63
+
+# _ * 6 _ _ _ = _ 
+
+#%%
+
+
+
 
 
 
