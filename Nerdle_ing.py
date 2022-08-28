@@ -7,27 +7,8 @@ Created on Sun Aug 14 05:57:25 2022
 
 # Nerdle Adventuring
 
-#%%
 
-# no 8, 1, 3, 6, 7, 5
-# yes 7 in 1st pos, 9 in 4th pos, 4
-# answer is 1 digit
-# no subtraction or multiplication
 
-# 7 _ _ _ _ _ _ _  with 4 & 9 somewhere
-
-n=75*9
-
-#%%
-
-# 7 + _ 9 / _ = _ 
-
-# 7 + _ 9 / _ = 4
-
-# 7 + 29 / 2 = 4
-
-# n=(7+29)/2 doesn't work in nerdle -- order of op applies, darn it!
-n=7+29 
 #%%
 
 # no 8, 2, 9, 0, 1, 
@@ -147,6 +128,19 @@ nerdle = 9*63
 
 #%%
 
+# no 5, 3, 2, 7, 6, 4
+# yes 1 in not 1st spot, 9 not in 1st spot, 8 in 1st spot
+# answer is 1 digit
+# no division, no multiplication
+# yes addition not in 5th spot, subtraction in 2nd spot
+
+# _ _ _ _ _ _ = _
+
+# 8 - _ _ _ _ = _
+
+# interim results can be negative! Ok then. 
+
+#%% 
 
 
 
