@@ -8,30 +8,6 @@ Created on Sun Aug 14 05:57:25 2022
 # Nerdle Adventuring
 
 
-
-#%%
-
-# no 8, 2, 9, 0, 1, 
-# yes 5 in 1st pos, 3 in 4th pos, 7 somewhere
-# answer = 3 digits
-# no addition, is mult somewhere
-
-# 5 _ _ 3 _ _ _ _ 
-
-n=57*3
-
-# 5 _ _ 3 = _ _ _ 
-
-m=5*63
-
-# no 1
-
-l=5*43
-
-# no 2, no 1
-
-k=5*73
-
 #%%
 
 # no 7, 8, 2, 3, 4, 5, 0
@@ -141,6 +117,21 @@ nerdle = 9*63
 # interim results can be negative! Ok then. 
 
 #%% 
+
+# no 3, 9, 2, 4
+# yes 5, 1 , 0
+# answer is 1 digit
+# no __
+# yes mult 3rd div 5th
+
+# _ _ * _ / _ = 
+
+nerdy = 21*5
+ydren = 105/3
+
+# _ 0 * _ / 5 = _ 
+#%%
+
 
 
 
