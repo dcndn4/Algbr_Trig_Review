@@ -10,17 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 7, 8, 2, 3, 4, 5, 0
-# yes 6 in 9th pos, 9 somewhere
-# answer = 2  digits
-# no division, no subtraction, no multiplication
-
-# _ _ _ _ _ _ _ 6
-
-nrdl = 45*9
-
-#%%
-
 _ _ _ _ _ = _ 6
 
 # answer either 16, 96 or 66
@@ -131,6 +120,19 @@ ydren = 105/3
 
 # _ 0 * _ / 5 = _ 
 #%%
+
+# no 5, 1, 9, 8, 4, 2, 1, 0
+# yes 3 not in 4th pos, 7 not in 1st pos
+# answer is 2 
+# no division
+# yes subtraction in 4th pos, mult in 2nd pos
+
+# _ * _ - _ = _ _ 
+
+#%%
+
+
+
 
 
 
