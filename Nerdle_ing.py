@@ -7,14 +7,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # Nerdle Adventuring
 
-
-#%%
-
-_ _ _ _ _ = _ 6
-
-# answer either 16, 96 or 66
-# with all addition only
-
 #%%
 
 # no 9, 1, 0, 1, or 6
@@ -128,6 +120,22 @@ ydren = 105/3
 # yes subtraction in 4th pos, mult in 2nd pos
 
 # _ * _ - _ = _ _ 
+
+#%%
+
+# no 9, 8, 7
+# yes 5 not in 1st or 3rd place, 3 not in 3rd or 7th place, 2 not in 7th, 1 not in 8th, 6 not in 5th place
+# answer is 2 digits
+# no subtraction
+# yes multiplication in 2nd place, addition in 4th place
+
+# _ * _ _ _ = _ _ 
+
+# 5 * 3 + 6 = 21
+
+#%%
+
+# _ * _ + _ = _ _ 
 
 #%%
 
