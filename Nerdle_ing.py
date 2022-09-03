@@ -9,22 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 9, 1, 0, 1, or 6
-# yes 8, 7, 3 in 1st pos, 5 in 4th pos
-# answer = 1 digit
-# no subtraction
-# yes addition in 2nd place, div in 5th place
-
-#_ + _ _ = _ _ _ 
-
-# or 
-
-#_ + _ _ _ = _ _ 
-
-ner=2+(25/5) variation
-
-#%%
-
 # 3 + _ 5 / _ = _ 
 
 #%%
@@ -138,6 +122,24 @@ ydren = 105/3
 # _ * _ + _ = _ _ 
 
 #%%
+
+# no 6, 4, 3
+# yes 8 not in 4th or 3rd, 7 not in 6th or 5th or 3rd, 1 not in 8th position, 2 not in 7th
+# answer is 2 digits
+# no division, no subtraction
+# yes addition in 2nd, and addition in 4th position
+
+# _ + _ + _ = _ _ 
+
+# answer is 18
+
+# _ + _ + _ = 18
+
+#%%
+
+
+
+
 
 
 
