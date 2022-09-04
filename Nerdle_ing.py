@@ -7,21 +7,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # Nerdle Adventuring
 
-#%%
-
-# 3 + _ 5 / _ = _ 
-
-#%%
-
-# no 3
-# yes 5, 9, 1, 4, 6
-# answer = 2 digit
-# no ..
-# yes subtraction in not- 3rd place
-
-# _ _  _ _ _ = _ _ 
-
-nrd = 6*4-9
 
 #%%
 
@@ -136,6 +121,15 @@ ydren = 105/3
 # _ + _ + _ = 18
 
 #%%
+
+# no 5, 8, 2, 7, 3
+# yes 9 in 1st pos, 1 in 5th, 6 in 3rd
+# answer is 1 digit
+# no division, no multiplication
+# yes subtraction not in 5th place
+
+#%%
+
 
 
 
