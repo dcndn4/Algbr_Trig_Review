@@ -8,23 +8,6 @@ Created on Sun Aug 14 05:57:25 2022
 # Nerdle Adventuring
 
 
-#%%
-
-# no 1, 9, 5, 7, 3, 2, 0
-# yes 8 in 1st pos, 4 in 3rd pos 6, other 8, 0
-# answer is 1 digit
-# no multiplication
-# yes subtraction not in 3rd pos
-
-# 8 _ _ _ _ _ _ _ 
-
-thur = 8*73
-
-# 8 _ _ _ _ _ = _
-
-# 8 + _ - _ _ = _ 
-
-# note to self: 4 spaces equating to single digit.. mm-hmm.
 
 #%%
 
@@ -129,6 +112,20 @@ ydren = 105/3
 # yes subtraction not in 5th place
 
 #%%
+
+# no 4, 3, 6, 7
+# yes 5 in 2nd pos, 9 (not in 2nd), 2 (not in 6th), 1 in 6th pos
+# answer is 3 digits
+# Mult in 3rd pos
+
+# _ _ * _ = _ _ _
+
+# _ 5 * _ = 1 _ _ 
+
+#%%
+
+
+
 
 
 
