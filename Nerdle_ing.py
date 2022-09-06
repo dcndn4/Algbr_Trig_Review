@@ -9,17 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 
 
-#%%
-
-# no 9, 3, 4, 5
-# yes 7, 7, 2, 1
-# answer is 2 digits
-# no multiplication, no division
-# yes addition, but not in 3rd position
-
-# _ _ _ _ _ = _ _
-
-# ... yes!
 
 #%%
 
@@ -121,6 +110,17 @@ ydren = 105/3
 # _ _ * _ = _ _ _
 
 # _ 5 * _ = 1 _ _ 
+
+#%%
+
+nene=67*3
+
+# no 6, 0, 1, 5, 9
+# yes 7 not in 2nd pos, 3 not in 1st or 4th pos, 2 not in 2nd or 6th pos, 8 not in 4th pos
+# no multiplication, no division
+# yes addition not in 5th pos
+# answer is  2 digits
+# poss answers include 22, 23, 24?, 27, 28, 32, 33 etc..
 
 #%%
 
