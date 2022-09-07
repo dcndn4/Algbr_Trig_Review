@@ -9,21 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 
 
-
-#%%
-
-# no 8, 2, 4, 9, 7
-# yes 6 in 3rd pos, 3, 5
-# answer is 1  digit
-# no ..
-# yes multiplication in 2nd pos and division (not in 2nd)
-
-# _ _ _ _ _ _ _ _ 
-
-nerdle = 9*63
-
-# _ * 6 _ _ _ = _ 
-
 #%%
 
 # no 5, 3, 2, 7, 6, 4
@@ -123,6 +108,27 @@ nene=67*3
 # poss answers include 22, 23, 24?, 27, 28, 32, 33 etc..
 
 #%%
+
+neee = 53-29
+
+#%%
+
+# no 4, 2, 8, 5, 1, 0
+# yes 3 in 2nd pos, 1 in 7th pos, 7 not in 5th or 1st, 6 not in 8th or 4th
+#
+# yes subtraction in 3rd pos
+# answer is 2 digits
+
+# _ 3 - _ _ = 1 _
+
+neeee = 33 - 17
+
+#%%
+
+_ 3 - _ _ = 1 _
+
+#%%
+
 
 
 
