@@ -9,20 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 
 
-#%%
-
-# no 5, 3, 2, 7, 6, 4
-# yes 1 in not 1st spot, 9 not in 1st spot, 8 in 1st spot
-# answer is 1 digit
-# no division, no multiplication
-# yes addition not in 5th spot, subtraction in 2nd spot
-
-# _ _ _ _ _ _ = _
-
-# 8 - _ _ _ _ = _
-
-# interim results can be negative! Ok then. 
-
 #%% 
 
 # no 3, 9, 2, 4
@@ -128,6 +114,16 @@ neeee = 33 - 17
 _ 3 - _ _ = 1 _
 
 #%%
+
+# no 3, 9, 2, 
+# yes 5 in 1st pos, 6 not in 2nd, 7 not in 4th or 3rd, 8 not in 5th
+# no subtrct
+# mult not in 3rd or 2nd pos
+# answer is 2 digits
+
+#%%
+
+
 
 
 
