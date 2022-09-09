@@ -7,22 +7,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # Nerdle Adventuring
 
-
-
-#%% 
-
-# no 3, 9, 2, 4
-# yes 5, 1 , 0
-# answer is 1 digit
-# no __
-# yes mult 3rd div 5th
-
-# _ _ * _ / _ = 
-
-nerdy = 21*5
-ydren = 105/3
-
-# _ 0 * _ / 5 = _ 
 #%%
 
 # no 5, 1, 9, 8, 4, 2, 1, 0
@@ -122,6 +106,20 @@ _ 3 - _ _ = 1 _
 # answer is 2 digits
 
 #%%
+
+# no 7, 2, 3, 8, 0
+# yes 9 not in 4th, 5 in 3rd, 4 not in 9th, 1 not in 6th
+# no division
+# yes subtraction in 4th, mult in 2nd
+# answer is 1 digit
+
+# _ * 5 - _ _ = _ 
+
+#%%
+
+
+
+
 
 
 
