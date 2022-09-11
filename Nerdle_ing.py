@@ -7,17 +7,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # Nerdle Adventuring
 
-#%%
-
-# no 9, 8, 7
-# yes 5 not in 1st or 3rd place, 3 not in 3rd or 7th place, 2 not in 7th, 1 not in 8th, 6 not in 5th place
-# answer is 2 digits
-# no subtraction
-# yes multiplication in 2nd place, addition in 4th place
-
-# _ * _ _ _ = _ _ 
-
-# 5 * 3 + 6 = 21
 
 #%%
 
@@ -114,6 +103,22 @@ nee = 52/4
 # no division, subtraction
 # yes
 # answer is 3 digits
+
+#%%
+
+nrr = 96/32
+
+# no 9, 6, 3, 0, 7
+# yes 2 in 5th pos, 8 not in 1st, 5 not in 7th, 4 not in 8th
+# no division
+# yes mult in 2nd, subtrct in 4th
+# answer is 2 digits
+# answer can have leading zero!
+
+_ * _ - 2 = _ _ 
+
+#%%
+
 
 
 
