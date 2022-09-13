@@ -8,23 +8,6 @@ Created on Sun Aug 14 05:57:25 2022
 # Nerdle Adventuring
 
 
-#%%
-
-# _ * _ + _ = _ _ 
-
-#%%
-
-# no 6, 4, 3
-# yes 8 not in 4th or 3rd, 7 not in 6th or 5th or 3rd, 1 not in 8th position, 2 not in 7th
-# answer is 2 digits
-# no division, no subtraction
-# yes addition in 2nd, and addition in 4th position
-
-# _ + _ + _ = _ _ 
-
-# answer is 18
-
-# _ + _ + _ = 18
 
 #%%
 
@@ -116,6 +99,16 @@ nrr = 96/32
 # answer can have leading zero!
 
 _ * _ - 2 = _ _ 
+
+#%%
+
+# no 6, 3, 7, 9, 5, 4, 0
+# yes 1 not in 1, not in 6th (2+!), 8 not in 2 or 4, 2 in 1st pos
+# no division, subtrc, mult
+# 
+# answer is 2 or 3 digit
+
+err = 21*8
 
 #%%
 
