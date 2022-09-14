@@ -11,21 +11,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-nene=67*3
-
-# no 6, 0, 1, 5, 9
-# yes 7 not in 2nd pos, 3 not in 1st or 4th pos, 2 not in 2nd or 6th pos, 8 not in 4th pos
-# no multiplication, no division
-# yes addition not in 5th pos
-# answer is  2 digits
-# poss answers include 22, 23, 24?, 27, 28, 32, 33 etc..
-
-#%%
-
-neee = 53-29
-
-#%%
-
 # no 4, 2, 8, 5, 1, 0
 # yes 3 in 2nd pos, 1 in 7th pos, 7 not in 5th or 1st, 6 not in 8th or 4th
 #
@@ -102,6 +87,20 @@ err = 21*8
 # answer is 1 digit
 
 2 digit - 1 digit = 1 digit.
+
+#%%
+
+nee = 27/9+1
+
+# no 7, 9, 4, 8, 3
+# yes 2 not in 1st or 5th, 1 not in 6th or 7th, 5 in 4th, 6 not in 2nd or 1st, 0 not in 5th
+# no division, mult, subtr
+# yes addition not in 5
+# answer is 2  digits
+
+#%%
+
+
 
 
 
