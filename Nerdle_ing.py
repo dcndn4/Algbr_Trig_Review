@@ -11,18 +11,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 4, 2, 8, 5, 1, 0
-# yes 3 in 2nd pos, 1 in 7th pos, 7 not in 5th or 1st, 6 not in 8th or 4th
-#
-# yes subtraction in 3rd pos
-# answer is 2 digits
-
-# _ 3 - _ _ = 1 _
-
-neeee = 33 - 17
-
-#%%
-
 _ 3 - _ _ = 1 _
 
 #%%
@@ -99,6 +87,15 @@ nee = 27/9+1
 # answer is 2  digits
 
 #%%
+
+# no 1, 6, 5, 9, 0
+# yes 8 not in 2nd, 2 in 4th, 4 in 8th
+# no add, mult
+# yes div not in 3rd
+# answer is 2 digits
+
+# - product now more familiar!
+
 
 
 
