@@ -11,18 +11,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-_ 3 - _ _ = 1 _
-
-#%%
-
-# no 3, 9, 2, 
-# yes 5 in 1st pos, 6 not in 2nd, 7 not in 4th or 3rd, 8 not in 5th
-# no subtrct
-# mult not in 3rd or 2nd pos
-# answer is 2 digits
-
-#%%
-
 # no 7, 2, 3, 8, 0
 # yes 9 not in 4th, 5 in 3rd, 4 not in 9th, 1 not in 6th
 # no division
@@ -109,6 +97,16 @@ n = 67*8
 ne = 68/4 #(can use leading zero!)
 
 nee = 63/21
+
+#%%
+
+nnn = 9-16/8
+
+# no 9, 1, 8, 7, 3, 5, 8
+# yes 6 not in 4th or 7th, is in 8th and one other, 4 not in 4th, 2 in 1st pos
+# no subtr, no div
+# yes add in 2nd, mult in 4th
+# answer is 2 
 
 #%%
 
