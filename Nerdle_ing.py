@@ -9,25 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 
 
-#%%
-
-# no 7, 2, 3, 8, 0
-# yes 9 not in 4th, 5 in 3rd, 4 not in 9th, 1 not in 6th
-# no division
-# yes subtraction in 4th, mult in 2nd
-# answer is 1 digit
-
-# _ * 5 - _ _ = _ 
-
-#%%
-
-nee = 52/4
-
-# no 5, 2, 4, 8, 1
-# yes 7 not in 6th or 5 (1st), 6 not in 8th or 4th (6th), 9 not in 1st, 3 in 7th, 0 in 8th
-# no division, subtraction
-# yes
-# answer is 3 digits
 
 #%%
 
@@ -109,6 +90,26 @@ nnn = 9-16/8
 # answer is 2 
 
 #%%
+
+nde = 90/2
+
+# no 9, 4, 1
+# yes 0 not in 2nd or 6th (2!) (1 is in 8th), 2 not in 4th or 1st, 5 in 4th, 8 not in 2nd
+# no div
+# yes mult not in 3rd
+# answer = 3 digits
+
+nde = 28*5
+
+#%%
+
+# _ _ _ 5 = _ _ 0
+
+nde = 6*25
+
+#%%
+
+
 
 
 
