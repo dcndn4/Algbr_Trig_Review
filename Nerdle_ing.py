@@ -12,19 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-nrr = 96/32
-
-# no 9, 6, 3, 0, 7
-# yes 2 in 5th pos, 8 not in 1st, 5 not in 7th, 4 not in 8th
-# no division
-# yes mult in 2nd, subtrct in 4th
-# answer is 2 digits
-# answer can have leading zero!
-
-_ * _ - 2 = _ _ 
-
-#%%
-
 # no 6, 3, 7, 9, 5, 4, 0
 # yes 1 not in 1, not in 6th (2+!), 8 not in 2 or 4, 2 in 1st pos
 # no division, subtrc, mult
@@ -108,6 +95,25 @@ nde = 28*5
 nde = 6*25
 
 #%%
+
+erd = 28*7
+
+# no 7, 9, 4, 5
+# yes 2 not in 1st, 8 not in 2nd, 1 in 6th and 1st, 6 in 2nd
+# no mult
+# yes div not in 3rd
+# answer is 1 digit
+
+# _ _ _ _ 1 = _
+
+# 1 6 _ _ _ 1 = _ 
+
+#%%
+
+erd = 8*21
+#%%
+
+
 
 
 
