@@ -12,27 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 6, 3, 7, 9, 5, 4, 0
-# yes 1 not in 1, not in 6th (2+!), 8 not in 2 or 4, 2 in 1st pos
-# no division, subtrc, mult
-# 
-# answer is 2 or 3 digit
-
-err = 21*8
-
-#%%
-
-# mini
-
-# no 2, 6
-# yes 1 in 1st
-# no division
-#
-# answer is 1 digit
-
-2 digit - 1 digit = 1 digit.
-
-#%%
 
 nee = 27/9+1
 
@@ -111,6 +90,27 @@ erd = 28*7
 #%%
 
 erd = 8*21
+#%%
+
+drendle = 9*4/2
+
+# no 9, 1, 8, 7, 5, 1
+# yes 4 not in 3rd, 2 not in 5th, 3 not in 4th
+# no div
+# yes mult in 2nd pos
+# answer is 3 digits
+
+# _ * _ _ _ _ _ 
+
+dremd = 7*56
+drem = 7 * 53
+
+#%%
+
+# _ * _ _ = _ _ _ 
+
+drm = 6*34
+
 #%%
 
 
