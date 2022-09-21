@@ -12,17 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-
-nee = 27/9+1
-
-# no 7, 9, 4, 8, 3
-# yes 2 not in 1st or 5th, 1 not in 6th or 7th, 5 in 4th, 6 not in 2nd or 1st, 0 not in 5th
-# no division, mult, subtr
-# yes addition not in 5
-# answer is 2  digits
-
-#%%
-
 # no 1, 6, 5, 9, 0
 # yes 8 not in 2nd, 2 in 4th, 4 in 8th
 # no add, mult
@@ -112,6 +101,29 @@ drem = 7 * 53
 drm = 6*34
 
 #%%
+
+der=52*4
+
+# no 5, 4, 0, 8
+# yes 2 not in 4th, and 2 not in 6th or 8th, 6 not in 7th, 9 in 1st
+# no div
+# yes mult not in 3rd, subtr not in 2nd
+# answer = 2 digits
+
+dr = 9 - 42/6
+
+# 9 - - - - = - - 
+
+# no 5, 4, 0, 8, 3
+# yes 2 not in 4th, and 2 not in 6th or 8th or 7th, 6 not in 8th, 9 in 1st
+# no div
+# yes mult in 2nd , subtr in 4th
+# answer = 2 digits
+
+# 9 * _ - _ = _ 6
+
+#%%
+
 
 
 
