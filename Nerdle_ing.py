@@ -10,14 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 
 
-#%%
-
-# no 1, 6, 5, 9, 0
-# yes 8 not in 2nd, 2 in 4th, 4 in 8th
-# no add, mult
-# yes div not in 3rd
-# answer is 2 digits
-
 # - product now more familiar!
 
 #%%
@@ -122,6 +114,19 @@ dr = 9 - 42/6
 
 # 9 * _ - _ = _ 6
 
+#%%
+
+drr = 78*9
+
+# no 7, 0, 6, 5
+# yes 8 not in 2nd, 9 not in 4th or 8th, 2 in 8th, 1 not in 5th
+# no subt
+# yes mult not in 3rd
+# answer = 2 digits
+
+#  8 * _ + _ = 92
+# 9 * _ + _ = 82
+# 8 * _ + _ = 12
 #%%
 
 
