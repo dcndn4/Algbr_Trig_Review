@@ -12,19 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # - product now more familiar!
 
-#%%
-
-n = 67*8
-
-# no 7, 5, 0, 1, 4
-# yes 6 in 1st pos, 2nd 6 not in 8th, (and that's not all..), 8 not in 4th or 2nd, 3 not in 7th - is 8th
-# no mult
-# yes  div in 3rd pos
-# answer is 2 or 1 digit (or 4??) // 1 digit, is 3!
-
-ne = 68/4 #(can use leading zero!)
-
-nee = 63/21
 
 #%%
 
@@ -128,6 +115,22 @@ drr = 78*9
 # 9 * _ + _ = 82
 # 8 * _ + _ = 12
 #%%
+
+rndl = 594
+
+# no 5, 4, 3, 0, 7, 0
+# yes 9 not in 2nd or 4th, 2 not in 6th or 7th, 6 in 9th, 8 not in 1st
+# no
+# yes mult
+# answer is 3 digits
+
+rnd = 80*9
+
+
+#%%
+
+
+
 
 
 
