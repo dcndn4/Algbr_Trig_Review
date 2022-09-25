@@ -15,16 +15,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-nnn = 9-16/8
-
-# no 9, 1, 8, 7, 3, 5, 8
-# yes 6 not in 4th or 7th, is in 8th and one other, 4 not in 4th, 2 in 1st pos
-# no subtr, no div
-# yes add in 2nd, mult in 4th
-# answer is 2 
-
-#%%
-
 nde = 90/2
 
 # no 9, 4, 1
@@ -128,6 +118,19 @@ rnd = 80*9
 
 
 #%%
+
+lrn = 54/2
+
+# no 5, 3, 0, 8
+# yes 4 not in 2nd, 2 in 8th, 9 in 8th, 7 not in 6th
+# no div
+# yes mult not in 3rd
+# answer is 2 digits (is 29)
+
+# _  _  _  _  _  = 29
+#%%
+
+
 
 
 
