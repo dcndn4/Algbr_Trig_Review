@@ -13,17 +13,7 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-#%%
 
-nde = 90/2
-
-# no 9, 4, 1
-# yes 0 not in 2nd or 6th (2!) (1 is in 8th), 2 not in 4th or 1st, 5 in 4th, 8 not in 2nd
-# no div
-# yes mult not in 3rd
-# answer = 3 digits
-
-nde = 28*5
 
 #%%
 
@@ -130,8 +120,21 @@ lrn = 54/2
 # _  _  _  _  _  = 29
 #%%
 
+dren = 59+17
 
+# no 5, 9, 1, 7, 3, 9
+# yes 4 in 5th pos, 8 in 1st pos, 6 not in 7th
+# no add
+# yes mult in 2nd, subtr in 4th
+# answer is 2 digits
 
+drn = 8/8/4
+
+#%%
+
+# 8 * _ - 4 = _ _ 
+
+#%%
 
 
 
