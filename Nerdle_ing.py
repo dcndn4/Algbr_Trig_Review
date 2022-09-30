@@ -17,27 +17,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# _ _ _ 5 = _ _ 0
-
-nde = 6*25
-
-#%%
-
-erd = 28*7
-
-# no 7, 9, 4, 5
-# yes 2 not in 1st, 8 not in 2nd, 1 in 6th and 1st, 6 in 2nd
-# no mult
-# yes div not in 3rd
-# answer is 1 digit
-
-# _ _ _ _ 1 = _
-
-# 1 6 _ _ _ 1 = _ 
-
-#%%
-
-erd = 8*21
 #%%
 
 drendle = 9*4/2
@@ -135,6 +114,18 @@ drn = 8/8/4
 # 8 * _ - 4 = _ _ 
 
 #%%
+
+ern = 8*9/3
+
+# no 8, 9, 4, 7, 
+# yes 3 not in 2nd or 5th, 2 not in 7th or 8th, 6 not in 4th, 1 not in 5th
+# no mult, no div
+# yes subtr in 3rd pos
+# answer is 2 digits
+
+
+
+
 
 
 
