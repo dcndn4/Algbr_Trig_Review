@@ -119,9 +119,12 @@ ern = 8*9/3
 
 # no 8, 9, 4, 7, 
 # yes 3 not in 2nd or 5th, 2 not in 7th or 8th, 6 not in 4th, 1 not in 5th
+# yes 6 in 1st 5 in 2nd, 2 in 5th, 3 in 8th
 # no mult, no div
 # yes subtr in 3rd pos
 # answer is 2 digits
+
+#%%
 
 
 
