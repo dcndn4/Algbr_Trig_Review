@@ -19,24 +19,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-drendle = 9*4/2
-
-# no 9, 1, 8, 7, 5, 1
-# yes 4 not in 3rd, 2 not in 5th, 3 not in 4th
-# no div
-# yes mult in 2nd pos
-# answer is 3 digits
-
-# _ * _ _ _ _ _ 
-
-dremd = 7*56
-drem = 7 * 53
-
-#%%
-
-# _ * _ _ = _ _ _ 
-
-drm = 6*34
 
 #%%
 
@@ -123,6 +105,16 @@ ern = 8*9/3
 # no mult, no div
 # yes subtr in 3rd pos
 # answer is 2 digits
+
+#%%
+
+# no 9, 0, 2
+# yes 7 not in 1st, 1 not in 6th or 8th or 2nd, 3 not in 4th, 5 in 6th
+# no mult, no add, no div
+# yes subtr in 5th pos
+# answer is 1 digits
+
+# _ _ _ _ - 5 = _
 
 #%%
 
