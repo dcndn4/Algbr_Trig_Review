@@ -22,25 +22,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-der=52*4
-
-# no 5, 4, 0, 8
-# yes 2 not in 4th, and 2 not in 6th or 8th, 6 not in 7th, 9 in 1st
-# no div
-# yes mult not in 3rd, subtr not in 2nd
-# answer = 2 digits
-
-dr = 9 - 42/6
-
-# 9 - - - - = - - 
-
-# no 5, 4, 0, 8, 3
-# yes 2 not in 4th, and 2 not in 6th or 8th or 7th, 6 not in 8th, 9 in 1st
-# no div
-# yes mult in 2nd , subtr in 4th
-# answer = 2 digits
-
-# 9 * _ - _ = _ 6
 
 #%%
 
@@ -117,6 +98,19 @@ ern = 8*9/3
 # _ _ _ _ - 5 = _
 
 #%%
+
+rrddll = 97*6
+
+# no 6, 5, 8, 1, 4
+# yes 9 in 1st pos, 7 not in 2nd not in 5th not in 4th, 2 not in 7th not in 8th, 3 not in 3rd, 0 not in 8th
+# no mult, no div
+# yes subt in 3rd pos
+# answer is 2  digit
+
+rrddl = 90-23
+
+#%%
+
 
 
 
