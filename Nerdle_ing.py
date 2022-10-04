@@ -25,17 +25,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-drr = 78*9
-
-# no 7, 0, 6, 5
-# yes 8 not in 2nd, 9 not in 4th or 8th, 2 in 8th, 1 not in 5th
-# no subt
-# yes mult not in 3rd
-# answer = 2 digits
-
-#  8 * _ + _ = 92
-# 9 * _ + _ = 82
-# 8 * _ + _ = 12
 #%%
 
 rndl = 594
@@ -111,8 +100,13 @@ rrddl = 90-23
 
 #%%
 
+# no 5, 2, 1, 8, 7
+# yes 3 in 4thpos, 3 in 1st pos, 9 not in 2nd, 6 not in 8th
+# no add
+# yes div in 3rd, sub in 5th
+# answer is 1 or 3 digits
 
-
+#%%
 
 
 
