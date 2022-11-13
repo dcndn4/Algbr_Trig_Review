@@ -19,23 +19,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-
-#%%
-
-
-#%%
-
-lrn = 54/2
-
-# no 5, 3, 0, 8
-# yes 4 not in 2nd, 2 in 8th, 9 in 8th, 7 not in 6th
-# no div
-# yes mult not in 3rd
-# answer is 2 digits (is 29)
-
-# _  _  _  _  _  = 29
-#%%
-
 dren = 59+17
 
 # no 5, 9, 1, 7, 3, 9
@@ -109,6 +92,30 @@ der = 8*75
 
 rde = 8*73
 #%%S
+
+# no 5, 4, 6
+# yes 3 in 1st pos, 2 not in 2nd, 8 not in 7th
+# no add
+# yes
+# answer is 1 or 3 digits
+
+# 3 _ _ _ _ = _ _ _ 
+
+# or 
+
+# 3 _ _ _ _ _ _ = _ 
+
+# 34/2-9=8
+
+# no 5, 4, 6, 9
+# yes 3 in 1st pos, 2 not in 2nd or 4th, 8 not in 7th or 8th
+# no add, no div
+# yes minus not in 5th
+# answer is 1 digit
+
+# 3 _ _ _ _ _ = _   with 2 and 8 somewhere
+
+# too two!
 
 
 
