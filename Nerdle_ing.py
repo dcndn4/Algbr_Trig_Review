@@ -13,26 +13,6 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-
-
-#%%
-
-#%%
-
-dren = 59+17
-
-# no 5, 9, 1, 7, 3, 9
-# yes 4 in 5th pos, 8 in 1st pos, 6 not in 7th
-# no add
-# yes mult in 2nd, subtr in 4th
-# answer is 2 digits
-
-drn = 8/8/4
-
-#%%
-
-# 8 * _ - 4 = _ _ 
-
 #%%
 
 ern = 8*9/3
@@ -116,6 +96,21 @@ rde = 8*73
 # 3 _ _ _ _ _ = _   with 2 and 8 somewhere
 
 # too two!
+
+#%%
+
+# no 5, 7, 6, 0 
+# yes 9 not in 1st or 2nd, 4 not in 2nd or 5th or 6th, 1 not in 7th, 3 not in 8th pos, 8 not in 2nd
+# yes 9 not in 1st or 2nd, 4 not in 1st or 2nd or 5th or 6th, 1 in 8th, 3 not in 4th or 5th or 8th pos, 8 in 7th
+# no multiplication, division, subtraction
+# yes addition in 3rd place
+# answer is 2 digits
+
+#erd=48+33 meets conditions, but is not the particular correct combo
+# erd = 33+48=81 same
+# 32+49=81 -- should have tested the 2 earlier on!
+
+
 
 
 
