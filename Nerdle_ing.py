@@ -7,22 +7,8 @@ Created on Sun Aug 14 05:57:25 2022
 
 # Nerdle Adventuring
 
-
-
-
 # - product now more familiar!
 
-
-#%%
-
-ern = 8*9/3
-
-# no 8, 9, 4, 7, 
-# yes 3 not in 2nd or 5th, 2 not in 7th or 8th, 6 not in 4th, 1 not in 5th
-# yes 6 in 1st 5 in 2nd, 2 in 5th, 3 in 8th
-# no mult, no div
-# yes subtr in 3rd pos
-# answer is 2 digits
 
 #%%
 
@@ -109,6 +95,19 @@ rde = 8*73
 #erd=48+33 meets conditions, but is not the particular correct combo
 # erd = 33+48=81 same
 # 32+49=81 -- should have tested the 2 earlier on!
+
+#%%
+
+rdl = 59*4
+
+# no 5, 9, 3, 6, 0, 9
+# yes 4 in 4th pos, 2 in 6th pos, 7 not in 2nd pos, 1 not in 1st pos
+# no addition, no subtraction
+# yes multiplication not in 3rd pos, div not in 6th pos
+# answer is 1 digit (or 4!) since 6th pos is occupied
+# answer is 1 digit
+
+# lesson for today - intermediate results can be fractional! Something new.. 
 
 
 
