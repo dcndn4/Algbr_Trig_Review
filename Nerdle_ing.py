@@ -9,19 +9,7 @@ Created on Sun Aug 14 05:57:25 2022
 
 # - product now more familiar!
 
-
 #%%
-
-# no 9, 0, 2
-# yes 7 not in 1st, 1 not in 6th or 8th or 2nd, 3 not in 4th, 5 in 6th
-# no mult, no add, no div
-# yes subtr in 5th pos
-# answer is 1 digits
-
-# _ _ _ _ - 5 = _
-
-#%%
-
 rrddll = 97*6
 
 # no 6, 5, 8, 1, 4
@@ -108,6 +96,20 @@ rdl = 59*4
 # answer is 1 digit
 
 # lesson for today - intermediate results can be fractional! Something new.. 
+
+#%%
+
+
+
+# no 7, 2, 1, 6, 4
+# yes 8 in 8th, 3 not in 2nd, 9 not in 7th
+# no addition
+# yes subtraction not in 4th, mult not in 2nd
+# answer is 1 or 3 digits
+# number - product = 8!
+#%%
+
+
 
 
 
