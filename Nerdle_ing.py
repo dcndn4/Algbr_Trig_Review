@@ -9,16 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # - product now more familiar!
 
-#%%
-rrddll = 97*6
-
-# no 6, 5, 8, 1, 4
-# yes 9 in 1st pos, 7 not in 2nd not in 5th not in 4th, 2 not in 7th not in 8th, 3 not in 3rd, 0 not in 8th
-# no mult, no div
-# yes subt in 3rd pos
-# answer is 2  digit
-
-rrddl = 90-23
 
 #%%
 
@@ -108,6 +98,20 @@ rdl = 59*4
 # answer is 1 or 3 digits
 # number - product = 8!
 #%%
+
+#drindle = 45*7=315
+drindle = 47*5
+
+# no 9, 6, 8, 1, 5, 0
+# yes 4 not in 4th or 1st, 7 not in 2nd or 5th, 2 in 1st, 3 not in 7th or 2nd
+# no subtraction, no division, no multiplication
+# yes addition
+# answer is 2  digits
+
+2 numbers twice, simplest of simple
+
+
+
 
 
 
