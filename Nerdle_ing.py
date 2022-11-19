@@ -12,14 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 5, 2, 1, 8, 7
-# yes 3 in 4thpos, 3 in 1st pos, 9 not in 2nd, 6 not in 8th
-# no add
-# yes div in 3rd, sub in 5th
-# answer is 1 or 3 digits
-
-#%%
-
 # no 9, 2
 # yes 5 in 1st pos, 4 not in 2nd, 8 not in 8th
 # no add
@@ -109,6 +101,22 @@ drindle = 47*5
 # answer is 2  digits
 
 2 numbers twice, simplest of simple
+
+#%%
+
+dnd = 94*3
+
+# no 5, 6, 8, 4, 3, 0
+# yes 2 in 8th, 9 in 1st
+# no division, no addition
+# yes multiplication, yes subtraction
+# answer is 2 digits
+
+3 3 3s! Wowza. 
+
+#%%
+
+
 
 
 
