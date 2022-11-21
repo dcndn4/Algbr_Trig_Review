@@ -12,23 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 9, 2
-# yes 5 in 1st pos, 4 not in 2nd, 8 not in 8th
-# no add
-# yes div in 4th
-# answer is 3 digits
-
-#%%
-
-erd = 8*74
-#%%
-
-der = 8*75
-#%%
-
-rde = 8*73
-#%%S
-
 # no 5, 4, 6
 # yes 3 in 1st pos, 2 not in 2nd, 8 not in 7th
 # no add
@@ -115,6 +98,21 @@ dnd = 94*3
 3 3 3s! Wowza. 
 
 #%%
+
+dd=9*4
+ddd=36/3
+
+# no 5, 8, 9, 1, 7
+# yes 4 not in 4th or 3rd or 1st, 3 not in 7th or 5th, 2 in 7th
+# no  division, no subtraction
+# yes mult in 2nd
+# answer is 2 or 1 digits
+# 5 number positions, 4 numbers (and maybe zero) not ruled out, 1 duplicate number (not 2), or zero in use
+#%%
+
+
+
+
 
 
 
