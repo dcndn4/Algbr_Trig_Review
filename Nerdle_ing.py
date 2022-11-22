@@ -10,31 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-#%%
-
-# no 5, 4, 6
-# yes 3 in 1st pos, 2 not in 2nd, 8 not in 7th
-# no add
-# yes
-# answer is 1 or 3 digits
-
-# 3 _ _ _ _ = _ _ _ 
-
-# or 
-
-# 3 _ _ _ _ _ _ = _ 
-
-# 34/2-9=8
-
-# no 5, 4, 6, 9
-# yes 3 in 1st pos, 2 not in 2nd or 4th, 8 not in 7th or 8th
-# no add, no div
-# yes minus not in 5th
-# answer is 1 digit
-
-# 3 _ _ _ _ _ = _   with 2 and 8 somewhere
-
-# too two!
 
 #%%
 
@@ -87,7 +62,7 @@ drindle = 47*5
 
 #%%
 
-dnd = 94*3
+
 
 # no 5, 6, 8, 4, 3, 0
 # yes 2 in 8th, 9 in 1st
@@ -99,8 +74,7 @@ dnd = 94*3
 
 #%%
 
-dd=9*4
-ddd=36/3
+
 
 # no 5, 8, 9, 1, 7
 # yes 4 not in 4th or 3rd or 1st, 3 not in 7th or 5th, 2 in 7th
@@ -108,6 +82,20 @@ ddd=36/3
 # yes mult in 2nd
 # answer is 2 or 1 digits
 # 5 number positions, 4 numbers (and maybe zero) not ruled out, 1 duplicate number (not 2), or zero in use
+#%%
+
+
+
+
+# no 9, 7, 6, 5
+# yes 2 not in 3rd or 7th, 4 in 4th , 1 not in 7th or 8th, 8 in 1st, 3 in 2nd
+# no div, no mult, no add
+# yes subt
+# answer is 2 digits
+
+# _ _ _ _ _ = 3 (or higher) _
+
+# 8 3 - 4 _ = 4 (or higher) _
 #%%
 
 
