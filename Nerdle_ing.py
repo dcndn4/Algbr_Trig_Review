@@ -13,19 +13,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 5, 7, 6, 0 
-# yes 9 not in 1st or 2nd, 4 not in 2nd or 5th or 6th, 1 not in 7th, 3 not in 8th pos, 8 not in 2nd
-# yes 9 not in 1st or 2nd, 4 not in 1st or 2nd or 5th or 6th, 1 in 8th, 3 not in 4th or 5th or 8th pos, 8 in 7th
-# no multiplication, division, subtraction
-# yes addition in 3rd place
-# answer is 2 digits
-
-#erd=48+33 meets conditions, but is not the particular correct combo
-# erd = 33+48=81 same
-# 32+49=81 -- should have tested the 2 earlier on!
-
-#%%
-
 rdl = 59*4
 
 # no 5, 9, 3, 6, 0, 9
@@ -97,6 +84,19 @@ drindle = 47*5
 
 # 8 3 - 4 _ = 4 (or higher) _
 #%%
+
+
+
+# no 5, 7, 3, 4, 9
+# yes 2 in 8th place, 6 not in 2nd or 3rd or 4th place, 8 not in 1st place
+# no div, no subt
+# yes mult
+# answer is 2 digits
+#%%
+
+
+
+
 
 
 
