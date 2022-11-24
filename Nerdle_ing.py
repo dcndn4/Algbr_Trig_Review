@@ -13,19 +13,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-rdl = 59*4
-
-# no 5, 9, 3, 6, 0, 9
-# yes 4 in 4th pos, 2 in 6th pos, 7 not in 2nd pos, 1 not in 1st pos
-# no addition, no subtraction
-# yes multiplication not in 3rd pos, div not in 6th pos
-# answer is 1 digit (or 4!) since 6th pos is occupied
-# answer is 1 digit
-
-# lesson for today - intermediate results can be fractional! Something new.. 
-
-#%%
-
 
 
 # no 7, 2, 1, 6, 4
@@ -93,6 +80,23 @@ drindle = 47*5
 # yes mult
 # answer is 2 digits
 #%%
+
+
+
+# no 5, 1, 0, 9, 2
+# yes 6 not in 2nd or 5th, 4 not in 5th or 6th
+# no div, subtr
+# yes mult
+# answer is 3 digits
+# yes 6 in 8th, 4 in 1st, 8 not in 1st or 2nd or 3rd, 3 in 5th
+# 3 open positions, 2 numbers to slot in, 1 duplicate not 8 or 4 or 3
+
+# 8 7 7 to be placed
+
+# 4 _ * _ = 3 _ 6
+#%%
+
+
 
 
 
