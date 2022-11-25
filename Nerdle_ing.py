@@ -10,17 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-
-#%%
-
-
-
-# no 7, 2, 1, 6, 4
-# yes 8 in 8th, 3 not in 2nd, 9 not in 7th
-# no addition
-# yes subtraction not in 4th, mult not in 2nd
-# answer is 1 or 3 digits
-# number - product = 8!
 #%%
 
 #drindle = 45*7=315
@@ -96,6 +85,22 @@ drindle = 47*5
 # 4 _ * _ = 3 _ 6
 #%%
 
+eel=95-68
+
+# no 9, 8
+# yes 5 in 2nd pos, 7 in 8th pos, 6 not in 4th, 2 not in 7th
+# no
+# yes subtraction
+# answer is 3 or 1
+
+#_ 5 - _ x x x 7 
+
+# x = number or equal sign
+
+#answer of 3 digits doesn't work with 2 digit number - something...must be 1 digit. Starting number of 25 too big (since 9 isn't in it). 
+
+# in 2!
+#%%
 
 
 
