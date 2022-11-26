@@ -10,18 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-#%%
-
-#drindle = 45*7=315
-drindle = 47*5
-
-# no 9, 6, 8, 1, 5, 0
-# yes 4 not in 4th or 1st, 7 not in 2nd or 5th, 2 in 1st, 3 not in 7th or 2nd
-# no subtraction, no division, no multiplication
-# yes addition
-# answer is 2  digits
-
-2 numbers twice, simplest of simple
 
 #%%
 
@@ -101,6 +89,22 @@ eel=95-68
 
 # in 2!
 #%%
+
+ler=79*2
+
+# no 7, 9, 1, 0
+# yes 2 not in 4th or 6th or 8th, 5 not in 7th, 8 not in 8th or 2nd or 5th, 4 not in 1st or 8th, 6 not in 4th or 2nd
+# no mult
+# yes div not in 3rd
+# answer is 2 digit
+
+lerr=48/6/2
+
+# 6 numbers included in answer, so room left for one operation only, must be (smallish) 3 digit number divided by (largish) 1 digit, and no numbers can be duplicated.
+
+# 2  3  4  5  6  8
+
+lerrr=258/6
 
 
 
