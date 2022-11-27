@@ -11,17 +11,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 
 
-#%%
-
-
-
-# no 5, 6, 8, 4, 3, 0
-# yes 2 in 8th, 9 in 1st
-# no division, no addition
-# yes multiplication, yes subtraction
-# answer is 2 digits
-
-3 3 3s! Wowza. 
 
 #%%
 
@@ -105,6 +94,29 @@ lerr=48/6/2
 # 2  3  4  5  6  8
 
 lerrr=258/6
+
+#%%
+
+reld = 8*7
+
+# no 9, 8, 7, 6, 3
+# yes 0 not in 2nd pos, 5 not in 4th or 5th, 2 not in 6th, 1 not in 8th
+# no subtr, div, add
+# yes mult in 2nd pos .. and also 4th pos?!
+# answer is 2 digits
+# yes 0 not in 2nd pos, 5 not in 4th or 5th, 2 in 7th, 1 not in 8th, 4 in 5th
+
+# since initial result is multiplied by 4 and answer is 2 digits starting w/ 2, 
+# answer must be 20, 24 or 28. Isn't 28 as 8 is ruled out. so it's 20 or 24.
+
+# 5 numbers are included in winning combo, and there are 5 slots open, so 0 is used, and most likely place is within answer.
+
+# so initial result = 5. Ok then!
+#%% 
+
+
+
+
 
 
 
