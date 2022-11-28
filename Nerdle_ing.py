@@ -11,17 +11,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 
 
-
-#%%
-
-
-
-# no 5, 8, 9, 1, 7
-# yes 4 not in 4th or 3rd or 1st, 3 not in 7th or 5th, 2 in 7th
-# no  division, no subtraction
-# yes mult in 2nd
-# answer is 2 or 1 digits
-# 5 number positions, 4 numbers (and maybe zero) not ruled out, 1 duplicate number (not 2), or zero in use
 #%%
 
 
@@ -79,7 +68,7 @@ eel=95-68
 # in 2!
 #%%
 
-ler=79*2
+
 
 # no 7, 9, 1, 0
 # yes 2 not in 4th or 6th or 8th, 5 not in 7th, 8 not in 8th or 2nd or 5th, 4 not in 1st or 8th, 6 not in 4th or 2nd
@@ -97,7 +86,7 @@ lerrr=258/6
 
 #%%
 
-reld = 8*7
+
 
 # no 9, 8, 7, 6, 3
 # yes 0 not in 2nd pos, 5 not in 4th or 5th, 2 not in 6th, 1 not in 8th
@@ -112,7 +101,16 @@ reld = 8*7
 # 5 numbers are included in winning combo, and there are 5 slots open, so 0 is used, and most likely place is within answer.
 
 # so initial result = 5. Ok then!
-#%% 
+#%%
+
+
+# no 5, 2, 7, 4, 
+# yes 3 not in 6th, 6 not in 7th or 4th, 8 in 7th
+# no 
+# yes mult not in 3rd
+# answer is 3 digits
+
+#%%
 
 
 
