@@ -10,21 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-
-#%%
-
-
-
-
-# no 9, 7, 6, 5
-# yes 2 not in 3rd or 7th, 4 in 4th , 1 not in 7th or 8th, 8 in 1st, 3 in 2nd
-# no div, no mult, no add
-# yes subt
-# answer is 2 digits
-
-# _ _ _ _ _ = 3 (or higher) _
-
-# 8 3 - 4 _ = 4 (or higher) _
 #%%
 
 
@@ -109,6 +94,20 @@ lerrr=258/6
 # no 
 # yes mult not in 3rd
 # answer is 3 digits
+
+#%%
+
+drf = 59*8
+
+# no 9, 8, 7
+# yes 5 not in 1st pos, 4 not in 1st or 6th pos, 2 not in 2nd or 8th pos
+# no mult
+# yes div
+# answer is 1 digit -- the number 5!
+
+drr = 42/7
+
+# _ _ / _ - 1 = 5
 
 #%%
 
