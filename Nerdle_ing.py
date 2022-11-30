@@ -12,17 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-
-
-# no 5, 7, 3, 4, 9
-# yes 2 in 8th place, 6 not in 2nd or 3rd or 4th place, 8 not in 1st place
-# no div, no subt
-# yes mult
-# answer is 2 digits
-#%%
-
-
-
 # no 5, 1, 0, 9, 2
 # yes 6 not in 2nd or 5th, 4 not in 5th or 6th
 # no div, subtr
@@ -112,6 +101,14 @@ drr = 42/7
 #%%
 
 
+
+# no 5, 9, 4, 8
+# yes 1 not in 4th pos, 7 in 7th pos, 3 in 5th pos, 2 in 8th pos
+# no add, mult
+# yes
+# answer is 2 digits
+
+#%%
 
 
 
