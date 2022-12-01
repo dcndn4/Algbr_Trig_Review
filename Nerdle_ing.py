@@ -12,19 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 5, 1, 0, 9, 2
-# yes 6 not in 2nd or 5th, 4 not in 5th or 6th
-# no div, subtr
-# yes mult
-# answer is 3 digits
-# yes 6 in 8th, 4 in 1st, 8 not in 1st or 2nd or 3rd, 3 in 5th
-# 3 open positions, 2 numbers to slot in, 1 duplicate not 8 or 4 or 3
-
-# 8 7 7 to be placed
-
-# 4 _ * _ = 3 _ 6
-#%%
-
 eel=95-68
 
 # no 9, 8
@@ -108,6 +95,15 @@ drr = 42/7
 # yes
 # answer is 2 digits
 
+#%%
+
+rrr=63/3
+
+# no 5, 8, 7, 4, 6
+# yes 3 not in 2nd or 4th, 1 not in 6th or 8th, 2 not in 7th, 0 in 4th
+# no mult, no div
+# yes
+# answer is 1 digits
 #%%
 
 
