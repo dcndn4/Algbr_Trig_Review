@@ -12,23 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-eel=95-68
-
-# no 9, 8
-# yes 5 in 2nd pos, 7 in 8th pos, 6 not in 4th, 2 not in 7th
-# no
-# yes subtraction
-# answer is 3 or 1
-
-#_ 5 - _ x x x 7 
-
-# x = number or equal sign
-
-#answer of 3 digits doesn't work with 2 digit number - something...must be 1 digit. Starting number of 25 too big (since 9 isn't in it). 
-
-# in 2!
-#%%
-
 
 
 # no 7, 9, 1, 0
@@ -73,7 +56,7 @@ lerrr=258/6
 
 #%%
 
-drf = 59*8
+
 
 # no 9, 8, 7
 # yes 5 not in 1st pos, 4 not in 1st or 6th pos, 2 not in 2nd or 8th pos
@@ -81,7 +64,7 @@ drf = 59*8
 # yes div
 # answer is 1 digit -- the number 5!
 
-drr = 42/7
+
 
 # _ _ / _ - 1 = 5
 
@@ -97,7 +80,7 @@ drr = 42/7
 
 #%%
 
-rrr=63/3
+
 
 # no 5, 8, 7, 4, 6
 # yes 3 not in 2nd or 4th, 1 not in 6th or 8th, 2 not in 7th, 0 in 4th
@@ -106,6 +89,22 @@ rrr=63/3
 # answer is 1 digits
 #%%
 
+
+
+
+# no 6, 7, 8
+# yes 5 in 1st & 8th, 9 not in 2nd, 3 not in 5th, 4 not in 7th, 2 not in 4th
+# no subt
+# yes  add
+# answer is 2 digits
+
+# 5 - + - - = - 5
+
+# 4 remaining slots, 4 numbers (besides 5) id'd as in, no add'l dups
+# plus, so result is higher, so:
+    
+# 5 - + - - = 9 5
+#%%
 
 
 
