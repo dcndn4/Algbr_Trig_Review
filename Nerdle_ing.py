@@ -106,8 +106,11 @@ lerrr=258/6
 # 5 - + - - = 9 5
 #%%
 
+# advent 1
 
 
+# b? u? symbol?.. hmm
+#%%
 
 
 
