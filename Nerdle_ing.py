@@ -110,6 +110,15 @@ drd = 3*78
 
 #%%
 
+# gift box
+
+# no 9, 8, 0 apparently
+# yes 1 in 2nd pos (given), 3 not in 6th, 6 not in 8th
+# no 
+# yes div in 3rd pos, subtr in 5th pos
+# answer is 1 digit
+
+#%%
 
 
 
