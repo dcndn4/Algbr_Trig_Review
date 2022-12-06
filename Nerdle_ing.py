@@ -13,23 +13,6 @@ Created on Sun Aug 14 05:57:25 2022
 #%%
 
 
-
-# no 9, 8, 7, 6, 3
-# yes 0 not in 2nd pos, 5 not in 4th or 5th, 2 not in 6th, 1 not in 8th
-# no subtr, div, add
-# yes mult in 2nd pos .. and also 4th pos?!
-# answer is 2 digits
-# yes 0 not in 2nd pos, 5 not in 4th or 5th, 2 in 7th, 1 not in 8th, 4 in 5th
-
-# since initial result is multiplied by 4 and answer is 2 digits starting w/ 2, 
-# answer must be 20, 24 or 28. Isn't 28 as 8 is ruled out. so it's 20 or 24.
-
-# 5 numbers are included in winning combo, and there are 5 slots open, so 0 is used, and most likely place is within answer.
-
-# so initial result = 5. Ok then!
-#%%
-
-
 # no 5, 2, 7, 4, 
 # yes 3 not in 6th, 6 not in 7th or 4th, 8 in 7th
 # no 
@@ -121,12 +104,38 @@ drd = 3*78
 #%%
 
 
+rrr = 16*3/8
+
+# no 1, 5, 4, 7, 9
+# yes 6 not in 1st or 2nd or 8th, 3 in 4th, 2 in 5th, 8 not in 1st or 6th position
+# no mult, div, subt
+# yes plus
+# answer is 2 digits
+
+#%%
+
+# santa hat
+
+# no 9, 3, 7
+# yes 5 in 1st, 4 in 5th, 1 not in 6th
+# no subtr, no add
+# yes
+# answer is 1, 2 (or 4??) digits
+
+qqq = 14*4
 
 
+# no 9, 3, 7, 6, 2
+# yes 5 in 1st, 1 in 4th, 4 in 5th, 1 not in 6th
+# no subtr, no add
+# yes div
+# answer is 1 digit
 
+qsr = 58/4
 
+decimality! Very fun!
 
-
+#%%
 
 
 
