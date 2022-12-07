@@ -13,15 +13,6 @@ Created on Sun Aug 14 05:57:25 2022
 #%%
 
 
-# no 5, 2, 7, 4, 
-# yes 3 not in 6th, 6 not in 7th or 4th, 8 in 7th
-# no 
-# yes mult not in 3rd
-# answer is 3 digits
-
-#%%
-
-
 
 # no 9, 8, 7
 # yes 5 not in 1st pos, 4 not in 1st or 6th pos, 2 not in 2nd or 8th pos
@@ -137,6 +128,24 @@ decimality! Very fun!
 
 #%%
 
+eee=58*3
+
+# no 5, 8, 3, 7, 4, 2
+# yes 1 not in 1st or 6th pos, 0 not in 2nd, 6 not in 4th, 9 in 1st
+# no mult, subt
+# yes div, add
+# answer is 2 digit
+
+ede = 96/6
+
+# yes 1 7th, 0 not in 2nd or 4th, 6 (1) in 5th, 6 (2) not in 4th or 2nd, 9 in 1st
+
+# number plus number (as result) = number, gotcha!
+
+#%%
+
+# wreath - very wreathy!
+#%%
 
 
 
