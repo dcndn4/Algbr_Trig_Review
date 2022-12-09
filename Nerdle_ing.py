@@ -9,21 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # - product now more familiar!
 
-
-#%%
-
-
-
-# no 9, 8, 7
-# yes 5 not in 1st pos, 4 not in 1st or 6th pos, 2 not in 2nd or 8th pos
-# no mult
-# yes div
-# answer is 1 digit -- the number 5!
-
-
-
-# _ _ / _ - 1 = 5
-
 #%%
 
 
@@ -147,10 +132,22 @@ ede = 96/6
 # wreath - very wreathy!
 #%%
 
+dre = 59*18/6
+de = 9*18/6
 
+# no 2, 9
+# yes 1 not in 3rd, 8 not in 4th 4 not in 8th
+# no div
+# yes mult  not in 2nd or 3rd pos, subtr not in 5th
+# answer is 1 digit
 
+# yes 1 (1) in 1st, 1(2) in 4th, 8 not in 4th or 6th, 4 in 2nd, 6 not in 8th
 
+# 14-1_ _ = 8 with a mult in there.. but ... but ........
 
+# - a product! Of course!!
+# still elusive.. next time for sure!
+#%%
 
 
 
