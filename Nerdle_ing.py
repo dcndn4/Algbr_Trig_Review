@@ -11,28 +11,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-
-
-# no 5, 9, 4, 8
-# yes 1 not in 4th pos, 7 in 7th pos, 3 in 5th pos, 2 in 8th pos
-# no add, mult
-# yes
-# answer is 2 digits
-
-#%%
-
-
-
-# no 5, 8, 7, 4, 6
-# yes 3 not in 2nd or 4th, 1 not in 6th or 8th, 2 not in 7th, 0 in 4th
-# no mult, no div
-# yes
-# answer is 1 digits
-#%%
-
-
-
-
 # no 6, 7, 8
 # yes 5 in 1st & 8th, 9 not in 2nd, 3 not in 5th, 4 not in 7th, 2 not in 4th
 # no subt
@@ -152,6 +130,16 @@ de = 9*18/6
 # turkey
 # yum!
 #%%
+
+Completed
+#%%
+
+#snowman!?!??
+
+# snowman!
+#%%
+
+
 
 
 
