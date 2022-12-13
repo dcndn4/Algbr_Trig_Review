@@ -11,26 +11,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-# no 6, 7, 8
-# yes 5 in 1st & 8th, 9 not in 2nd, 3 not in 5th, 4 not in 7th, 2 not in 4th
-# no subt
-# yes  add
-# answer is 2 digits
-
-# 5 - + - - = - 5
-
-# 4 remaining slots, 4 numbers (besides 5) id'd as in, no add'l dups
-# plus, so result is higher, so:
-    
-# 5 - + - - = 9 5
-#%%
-
-# advent 1
-
-
-# b? u? symbol?.. hmm
-#%%
-
 drd = 3*78
 
 # no 5, 6, 0, 1, 9, 
@@ -139,7 +119,16 @@ Completed
 # snowman!
 #%%
 
+# no 9, 3, 2, 4, 7, 8
+# yes 5 not in 3rd pos or 1st pos, 1 not in 8th pos
+# no add, no mult, no div
+# yes subtr
+# answer is 2 digits
 
+# yes 5 not in 3rd pos or 1st pos, 1 not in 8th pos or rth pos, 6 (1) in 2nd pos, 6 (2) not in 6th pos
+
+# and madamimadam and kayak and whatnot!
+#%%
 
 
 
