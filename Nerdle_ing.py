@@ -9,31 +9,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 # - product now more familiar!
 
-#%%
-
-drd = 3*78
-
-# no 5, 6, 0, 1, 9, 
-# yes 4 not in 4th or 8th pos, 3 not in 3rd pos, 8 not in 5th pos, 2 not in 7th pos
-# no mult
-# yes div not in 2nd or 3rd pos
-# answer is 1 digits
-
-# _ _ _ / _ _ = _ 
-
-# yes 4 in 3rd pos(no repeats), 3 not in 3rd pos, 8 in 6th pos (no repeats), 2 not in 7th pos
-
-# - - 4 / _ 8 = _
-
-#%%
-
-# gift box
-
-# no 9, 8, 0 apparently
-# yes 1 in 2nd pos (given), 3 not in 6th, 6 not in 8th
-# no 
-# yes div in 3rd pos, subtr in 5th pos
-# answer is 1 digit
 
 #%%
 
@@ -129,6 +104,37 @@ Completed
 
 # and madamimadam and kayak and whatnot!
 #%%
+
+# santa!
+
+
+
+# no 1, 9, 6
+# yes 5, 4, 2, 5, 2, 4, 7
+# no subtr, no mult
+# yes
+# answer is 2 digits
+
+
+
+ddddd=54+54/2/4
+dddde=54+44/2/4
+ddddf=54+24/2/4
+
+Woo-hooooo!!
+#%%
+
+erd = 53*6
+
+# no 5, 3, 6, 8, 0, 7
+# yes 1 in 7th pos(1), 1 also not in 3rd pos (2), 2 not in 1st, 4 not in 3rd or 8th
+# no mult, no div
+# yes add
+# answer is 2 digit (can't be 1 digit, the 1 is there)
+
+# back and forth
+#%%
+
 
 
 
