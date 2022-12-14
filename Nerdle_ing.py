@@ -135,6 +135,24 @@ erd = 53*6
 # back and forth
 #%%
 
+# snow flake!
+
+snow=5+32*6
+
+# no 9, 5 (2), 7, 6, 3
+# yes 5 in 1st pos, 1 in 8th pos, 2 in 4th, 0 not in 4th, 8 not in 11th
+# no 
+# yes mult, add
+# answer is 3 digits
+
+# 5 + _ 2 * _ = 1 0 8
+
+
+# 11th is 0 because isn't in 3rd, and likely wouldn't be in 6th
+
+# ta da!
+#%%
+
 
 
 
