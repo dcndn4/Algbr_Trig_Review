@@ -122,11 +122,11 @@ snow=5+32*6
 
 rdd = 58/2
 
-# no 5, 0, 9
-# yes 2 (1) not in 4th, 2(2) not in 7th, 8 not in 2nd
-# no div
+# no 5, 0, 9, 6, 7
+# yes 2 (1) not in 4th or 2nd, 2(2) not in 7th, 8 not in 2nd or 1st, 1 not in 4th
+# no div, no subt
 # yes
-# answer is 2 or 3 digits
+# answer is 2 digits
 
 
 
