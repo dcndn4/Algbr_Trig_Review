@@ -13,39 +13,6 @@ Created on Sun Aug 14 05:57:25 2022
 #%%
 
 
-rrr = 16*3/8
-
-# no 1, 5, 4, 7, 9
-# yes 6 not in 1st or 2nd or 8th, 3 in 4th, 2 in 5th, 8 not in 1st or 6th position
-# no mult, div, subt
-# yes plus
-# answer is 2 digits
-
-#%%
-
-# santa hat
-
-# no 9, 3, 7
-# yes 5 in 1st, 4 in 5th, 1 not in 6th
-# no subtr, no add
-# yes
-# answer is 1, 2 (or 4??) digits
-
-qqq = 14*4
-
-
-# no 9, 3, 7, 6, 2
-# yes 5 in 1st, 1 in 4th, 4 in 5th, 1 not in 6th
-# no subtr, no add
-# yes div
-# answer is 1 digit
-
-qsr = 58/4
-
-decimality! Very fun!
-
-#%%
-
 eee=58*3
 
 # no 5, 8, 3, 7, 4, 2
@@ -153,6 +120,13 @@ snow=5+32*6
 # ta da!
 #%%
 
+rdd = 58/2
+
+# no 5, 0, 9
+# yes 2 (1) not in 4th, 2(2) not in 7th, 8 not in 2nd
+# no div
+# yes
+# answer is 2 or 3 digits
 
 
 
