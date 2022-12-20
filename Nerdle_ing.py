@@ -12,26 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-
-eee=58*3
-
-# no 5, 8, 3, 7, 4, 2
-# yes 1 not in 1st or 6th pos, 0 not in 2nd, 6 not in 4th, 9 in 1st
-# no mult, subt
-# yes div, add
-# answer is 2 digit
-
-ede = 96/6
-
-# yes 1 7th, 0 not in 2nd or 4th, 6 (1) in 5th, 6 (2) not in 4th or 2nd, 9 in 1st
-
-# number plus number (as result) = number, gotcha!
-
-#%%
-
-# wreath - very wreathy!
-#%%
-
 dre = 59*18/6
 de = 9*18/6
 
@@ -142,6 +122,28 @@ rdd = 58/2
 # _ 0 * 6 + _ = 123
 
 #%%
+
+
+# no 5, 4, 2, 1
+# yes 9 not in 1st or 2nd, 3 not in 7th or 5th, 6 in 8th
+# no div
+# yes mult (not in 2nd or 3rd)
+# answer is 2 digit
+
+# in 3!!
+#%%
+
+# lollipop!
+
+# no 5, 7, 6, 3
+# yes 10 (given)(1&2) 9 not in 8th, 8 not in 4th, 2n not in 6th
+# no add, subtr
+# yes div
+# answre is 2 or 3 or..
+# yummy!!
+#%%
+
+
 
 
 
