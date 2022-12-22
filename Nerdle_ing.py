@@ -124,7 +124,23 @@ rdd = 58/2
 # simply a lot!
 #%%
 
+# candy cane! = 9
 
+cc = 14*32
+
+# no 3, 2, 4(3), 8, 5, 6, 7
+# yes 1 not in 1st, 4 in 2nd (given), 4 in 8th
+# no 
+# yes mult
+# answer is 3 digits
+
+ccc = 54*14
+cccc= 94*10
+#%%
+
+# result provides solutions!
+
+#%%
 
 
 
