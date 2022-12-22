@@ -10,34 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-#%%
-
-dre = 59*18/6
-de = 9*18/6
-
-# no 2, 9
-# yes 1 not in 3rd, 8 not in 4th 4 not in 8th
-# no div
-# yes mult  not in 2nd or 3rd pos, subtr not in 5th
-# answer is 1 digit
-
-# yes 1 (1) in 1st, 1(2) in 4th, 8 not in 4th or 6th, 4 in 2nd, 6 not in 8th
-
-# 14-1_ _ = 8 with a mult in there.. but ... but ........
-
-# - a product! Of course!!
-# still elusive.. next time for sure!
-#%%
-
-# turkey
-# yum!
-#%%
-
-Completed
-#%%
-
-#snowman!?!??
-
 # snowman!
 #%%
 
@@ -139,8 +111,17 @@ rdd = 58/2
 # yes 10 (given)(1&2) 9 not in 8th, 8 not in 4th, 2n not in 6th
 # no add, subtr
 # yes div
-# answre is 2 or 3 or..
+# answer is 2 or 3 or..
 # yummy!!
+#%%
+
+# no 5, 0, 6, 8, 1
+# yes 7 not 3rd, 3 not 5th, 9 not 8th
+# no add, subtr
+# yes
+# answer is 1 or 3 digits
+
+# simply a lot!
 #%%
 
 
