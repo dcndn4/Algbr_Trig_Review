@@ -125,6 +125,21 @@ Whee!
 
 #%%
 
+# stockings
+
+# yes 5 in 1st and last (given), 2 in 5th
+# no 5 (3rd), 8, 7, 
+# yes 
+# no subtr
+# answer is not 3 digits
+
+ggg= 500/25
+
+
+# so structury
+
+#%%
+
 
 
 
