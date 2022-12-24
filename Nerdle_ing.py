@@ -10,37 +10,6 @@ Created on Sun Aug 14 05:57:25 2022
 # - product now more familiar!
 
 
-# snowman!
-#%%
-
-# no 9, 3, 2, 4, 7, 8
-# yes 5 not in 3rd pos or 1st pos, 1 not in 8th pos
-# no add, no mult, no div
-# yes subtr
-# answer is 2 digits
-
-# yes 5 not in 3rd pos or 1st pos, 1 not in 8th pos or rth pos, 6 (1) in 2nd pos, 6 (2) not in 6th pos
-
-# and madamimadam and kayak and whatnot!
-#%%
-
-# santa!
-
-
-
-# no 1, 9, 6
-# yes 5, 4, 2, 5, 2, 4, 7
-# no subtr, no mult
-# yes
-# answer is 2 digits
-
-
-
-ddddd=54+54/2/4
-dddde=54+44/2/4
-ddddf=54+24/2/4
-
-Woo-hooooo!!
 #%%
 
 erd = 53*6
@@ -142,6 +111,19 @@ cccc= 94*10
 
 #%%
 
+eee = 57*4
+
+# no 5, 4, 2, 8, 9
+# yes 7 not in 2nd or 1st, 6 in 1st, 3 not in 2nd, 1 in 7th, 0 not in 5th
+# no mult, div
+# yes subtr not in 2nd or 5th
+# answer is 2 digits
+
+fff=75/15
+
+Whee!
+
+#%%
 
 
 
