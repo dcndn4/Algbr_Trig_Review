@@ -12,35 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-erd = 53*6
-
-# no 5, 3, 6, 8, 0, 7
-# yes 1 in 7th pos(1), 1 also not in 3rd pos (2), 2 not in 1st, 4 not in 3rd or 8th
-# no mult, no div
-# yes add
-# answer is 2 digit (can't be 1 digit, the 1 is there)
-
-# back and forth
-#%%
-
-# snow flake!
-
-snow=5+32*6
-
-# no 9, 5 (2), 7, 6, 3
-# yes 5 in 1st pos, 1 in 8th pos, 2 in 4th, 0 not in 4th, 8 not in 11th
-# no 
-# yes mult, add
-# answer is 3 digits
-
-# 5 + _ 2 * _ = 1 0 8
-
-
-# 11th is 0 because isn't in 3rd, and likely wouldn't be in 6th
-
-# ta da!
-#%%
-
 rdd = 58/2
 
 # no 5, 0, 9, 6, 7
@@ -139,6 +110,17 @@ ggg= 500/25
 # so structury
 
 #%%
+
+
+
+# yes 5 not in 1st or 2nd or 6th, 9 not in 1st or 4th, 1 in 1st
+# no 4, 2, 0, 7, 8, 6, 3
+# yes subtr
+# no div, no mult, no add
+# answer is 1  digit
+#%%
+
+
 
 
 
