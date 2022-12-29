@@ -12,29 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-rdd = 58/2
-
-# no 5, 0, 9, 6, 7
-# yes 2 (1) not in 4th or 2nd, 2(2) not in 7th, 8 not in 2nd or 1st, 1 not in 4th
-# no div, no subt
-# yes
-# answer is 2 digits
-
-#%%
-# jingle bells!
-
-#jng = 8*16-6-8
-
-#gnj = 118+8
-
-# _ + _ 6 _ _ = 108
-
-#jng = 9+96+9-8
-
-# _ 0 * 6 + _ = 123
-
-#%%
-
 
 # no 5, 4, 2, 1
 # yes 9 not in 1st or 2nd, 3 not in 7th or 5th, 6 in 8th
@@ -118,7 +95,22 @@ ggg= 500/25
 # yes subtr
 # no div, no mult, no add
 # answer is 1  digit
+
 #%%
+
+py = 54/9
+
+# yes 5 in 1st pos, 1 in 6th pos
+#  no 3, 2, 0, 6, 8, 1 (2nd)
+# no mult, add
+# yes subtr not in 4th pos
+# result is 1 digits (since 6th pos is #)
+
+# since result is 1 digit, answer must involve 2 digit nbr / 1 digit (that results in single digit), -1. so.. in 3!
+
+#%%
+
+
 
 
 
