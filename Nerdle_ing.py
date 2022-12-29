@@ -110,9 +110,34 @@ py = 54/9
 
 #%%
 
+# bi nerdle!
+
+bi = 4*2+6
+
+
+# top
+
+# yes 7 in 5th pos, 5 not in 1st, 1 not in 2nd, 3 not in 8th, 5 in 8th pos
+# no 1 (2nd), 0, 6, 8, 4
+# yes div in 4th pos!
+# no mult, add
+# answer = 1 digits (since 7 is in 5th pos)
+
+# got it in 5!!
 
 
 
+# bottom
+
+# yes  6 not in 1st pos or 3rd pos, 4 not in 5th pos
+# no 5, 1, 7, 0, 3, 8, 
+# yes mult in 2nd, add in 4th
+# no div
+# Answer = 2 digits
+
+# got it in 7!
+
+#%%
 
 
 
