@@ -130,6 +130,34 @@ ath = 53*7
 # neg that pos, in 4!
 #%%
 
+# b-nrd!
+
+tha = 54/18
+
+# Upper
+
+# yes 5 not in 1st, 4 not in 2nd, 2 in 5th, 6 not in 8th or 5th
+# yes 6 in 1st and 6th position (all others tried)
+# no 3, 8, 7, 1, 9, 0
+# yes mult in 2nd
+# no add, div
+# answer is 1 digit (since = not in 6th, 2 in 5th, and 4 digit answer not likely)
+
+# 6 * _ - 26 = _   with 5, 4 remaining to place in.. 30- 26 = 4 fits!
+
+# upper in 6!
+
+# Lower
+
+# yes 8 in 7th pos, 2 not in 5th, 6 not in 8th or 5th
+# no 5, 4, 3, 7, 1
+# yes add in 3rd pos
+# no
+# answer is 2 digits
+
+# lower in 4!!
+
+#%%
 
 
 
