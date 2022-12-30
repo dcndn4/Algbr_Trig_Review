@@ -12,26 +12,6 @@ Created on Sun Aug 14 05:57:25 2022
 
 #%%
 
-
-# no 5, 4, 2, 1
-# yes 9 not in 1st or 2nd, 3 not in 7th or 5th, 6 in 8th
-# no div
-# yes mult (not in 2nd or 3rd)
-# answer is 2 digit
-
-# in 3!!
-#%%
-
-# lollipop!
-
-# no 5, 7, 6, 3
-# yes 10 (given)(1&2) 9 not in 8th, 8 not in 4th, 2n not in 6th
-# no add, subtr
-# yes div
-# answer is 2 or 3 or..
-# yummy!!
-#%%
-
 # no 5, 0, 6, 8, 1
 # yes 7 not 3rd, 3 not 5th, 9 not 8th
 # no add, subtr
@@ -138,6 +118,18 @@ bi = 4*2+6
 # got it in 7!
 
 #%%
+
+ath = 53*7
+
+# yes 3 in 1st pos, 1 in 5th, 9 not in 3rd or 4th pos, 0 in 6th pos
+# no 5, 7, 6, 2
+# yes add not in 2nd, subtr not in 4th
+# no mult, div
+# answer is 1 digit
+
+# neg that pos, in 4!
+#%%
+
 
 
 
