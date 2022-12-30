@@ -159,6 +159,34 @@ tha = 54/18
 
 #%%
 
+# mini bi!!
+
+mn = 15-9=6
+
+# mini upper 
+
+# yes 9 in 4th pos
+# no 1, 5, 6
+# yes
+# no subt
+# answer is 1 digit
+
+# something acted on by 9 = 1 digit number, operation can't be add or mult, has to be div, 1st nbr has to be multiplier or 9. 
+
+# mini upper in 2!!
+
+# mini lower
+
+# yes 1 in 5th,  2 in 6th, 4 in 1st pos
+# no 5, 9, 6, 7, 3
+# yes 
+# no subt, div, mult
+# answer is 2 digits
+
+# mini lower in 4!
+
+#%%
+
 
 
 
