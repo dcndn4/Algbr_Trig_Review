@@ -188,7 +188,29 @@ mn = 15-9=6
 #%%
 
 
+h=39*8
+o=84/6
 
+# yes 8 not in 1st or 4th, 2 not in 8th, 4 not in 2nd, 6 not in 4th, 0 not in 6th
+# no 3, 1, 9
+# yes
+# no mult, no div
+# answer is 1 or 2 digits
+
+
+# yes 8 in 5th, 2 not in 8th, 4 not in 2nd, 6 not in 4th or 5th, 0 not in 6th or 7th
+# no 3, 1, 9, 5, 7
+# yes subtract in 3rd
+# no mult, no div
+# answer is 2 digits
+
+# 0, 2, 4, 6, 8
+
+# 6 _ - _ 8 = _ _ 
+
+# 60 - 48 = 12
+# close
+# guess # 5, woo-hoo!!
 
 
 
